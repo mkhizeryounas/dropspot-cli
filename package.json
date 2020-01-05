@@ -1,0 +1,22 @@
+{
+  "name": "dropspot",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "dropspot": "bin/dropspot"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/mkhizeryounas/dropspot-cli",
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "chalk": "^3.0.0",
+    "minimist": "^1.2.0",
+    "ora": "^4.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
