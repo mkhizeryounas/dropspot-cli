@@ -5,7 +5,7 @@ Dropspot is an opensource & lightweight continuous delivery service. Install dro
 ## How to install
 
 ```
-npm i -g dropspot
+npm i -g dropspot-cli
 ```
 
 ### Create a deployment token
