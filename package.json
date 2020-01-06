@@ -1,5 +1,5 @@
 {
-  "name": "dropspot",
+  "name": "dropspot-cli",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
