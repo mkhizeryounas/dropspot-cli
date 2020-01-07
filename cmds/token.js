@@ -45,5 +45,6 @@ module.exports = async argv => {
   } catch (err) {
     spinner.fail();
     console.log(chalk.red(err.message || err));
+    process.exit(1);
   }
 };
